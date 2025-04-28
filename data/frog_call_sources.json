@@ -1,0 +1,32 @@
+[
+  {
+    "name": "National Park Service",
+    "base_url": "https://www.nps.gov/subjects/sound/frogs.htm",
+    "type": "direct"
+  },
+  {
+    "name": "FrogLife.org",
+    "base_url": "https://www.froglife.org/info-advice/amphibians-and-reptiles/frogs/",
+    "type": "organization"
+  },
+  {
+    "name": "USGS Frog Call Lookup",
+    "base_url": "https://www.pwrc.usgs.gov/Frogcall/index.cfm",
+    "type": "database"
+  },
+  {
+    "name": "California Herps",
+    "base_url": "https://www.californiaherps.com/sounds.html",
+    "type": "regional"
+  },
+  {
+    "name": "AmphibiaWeb",
+    "base_url": "https://amphibiaweb.org/sounds/index.html",
+    "type": "scientific"
+  },
+  {
+    "name": "Minnesota Frogs and Toads",
+    "base_url": "https://mnherpsoc.org/mn-species/frogs-and-toads/",
+    "type": "regional"
+  }
+]
